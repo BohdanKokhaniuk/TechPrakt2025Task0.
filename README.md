@@ -1,4 +1,5 @@
-https://media.ztu.edu.ua/wp-content/uploads/2020/02/Group-6-1-1536x465.png 
+![image](https://github.com/user-attachments/assets/12dc0a0a-0c04-4f4e-ab9b-1d8b5ac64622)
+
 
 Виконання практичної роботи передбачає вивчення прийомів роботи з системою контролю версій Git:
 - створення віддаленого репозиторію;
@@ -29,4 +30,6 @@ git remote add
 git push
 git pull
 git branch
+
 Виконав: Коханюк Богдан
+
